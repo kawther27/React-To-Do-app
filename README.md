@@ -44,6 +44,15 @@ Feel free to fork this project and submit a pull request.
 ---
 📜 License
 📝 This project is licensed under the MIT License.
+---
+🙋 Author
+👤 kawther khlif
+🔗 GitHub
+📧 kawtherkhlif20@gmail.com
+
+---
+⭐ Support
+If you like this project, give it a ⭐ on GitHub!
 
 ---
 ## 🚀 **Installation & Setup**
@@ -54,12 +63,4 @@ Follow these steps to **run the project locally**:
 git clone https://git@github.com:kawther27/React-To-Do-app.git
 cd react-todo-app
 
----
-🙋 Author
-👤 kawther khlif
-🔗 GitHub
-📧 kawtherkhlif20@gmail.com
 
----
-⭐ Support
-If you like this project, give it a ⭐ on GitHub!
