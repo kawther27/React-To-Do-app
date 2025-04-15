@@ -12,10 +12,10 @@ A modern **React To-Do List** application with Bootstrap styling. Users can **ad
 ## 📸 **Screenshots**
 
 ### 📌 **Main Page**
-![Main Page](./screenshots/main-page.png)
+![Main Page](/src/assets/front.png.png)
 
 ### ➕ **Add a New Task**
-![Add Task](./screenshots/add-task.png)
+![Add Task](/src/assets/front.png)
 
 ---
 
